@@ -1,7 +1,7 @@
 # hello-world
 
-Repositories /n
-are at least less trouble than /n
-suppositories. /n
+Repositories 
+are at least less trouble than 
+suppositories. 
 
 
