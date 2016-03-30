@@ -1,2 +1,7 @@
 # hello-world
-Baby's first repository
+
+Repositories
+are at least less trouble than
+suppositories.
+
+
